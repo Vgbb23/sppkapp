@@ -44,7 +44,7 @@ export default function Home() {
         <title>ShopCash</title>
         <meta name="description" content="Cash" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/logo2.png" />
+        <link rel="icon" href="" />
         <script
           src="https://cdn.utmify.com.br/scripts/utms/latest.js"
           async
