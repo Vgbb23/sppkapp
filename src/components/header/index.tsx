@@ -1,7 +1,7 @@
 import { HeaderContainer, HeaderContent, HeaderImg, HeaderImg2 } from './styles'
 import Image from 'next/image'
-import Logo from '../../../public/nn.webp'
-import Logo2 from '../../../public/nn.webp'
+import Logo from '../../../public/logo01.png'
+import Logo2 from '../../../public/logo01.png'
 
 interface HeaderProps {
   price: string
