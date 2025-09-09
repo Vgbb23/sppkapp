@@ -41,8 +41,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>ShopeeCash</title>
-        <meta name="description" content="Terapeuta Transforma" />
+        <title>ShopCash</title>
+        <meta name="description" content="Cash" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/logo2.png" />
         <script
@@ -58,7 +58,7 @@ export default function Home() {
             <Header price="00,00" />
             <BoxContainer>
               <h1>
-                Bem vindo ao <span style={{ color: '#ff580c' }}>Shopee</span>
+                Bem vindo ao <span style={{ color: '#ff580c' }}>Shop</span>
                 Cash!
               </h1>
               <InputContainer>
@@ -89,7 +89,7 @@ export default function Home() {
                 <span style={{ color: '#ff580c' }}>TER VOCÊ AQUI!</span>
               </h1>
               <p>
-                O aplicativo da Shopee precisa de você e estão dispotos a pagar
+                O aplicativo da Shop precisa de você e estão dispotos a pagar
                 muito bem por isso!
               </p>
               <div>
