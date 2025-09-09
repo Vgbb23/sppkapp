@@ -75,7 +75,7 @@ export default function Home() {
               Ganhe até{' '}
               <span style={{ color: '#ff580c' }}>500 reais por dia</span>{' '}
               Avaliando produtos com esse aplicativo que tem{' '}
-              <span style={{ color: '#ff580c' }}>parceria com a Shop</span>
+              <span style={{ color: '#ff580c' }}>parceria com a Shopee</span>
             </h1>
             <Vsl />
             <VslHeadline>
